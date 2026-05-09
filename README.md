@@ -1,220 +1,224 @@
-Last Updated: May 2026
+Privacy Policy — Ethio Exit Exam Hub
 
-Introduction Welcome to Ethio Exit Exam Hub. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Last Updated: May 9, 2026
 
-By using Ethio Exit Exam Hub. you agree to the collection and use of information in accordance with this policy.
+Introduction
 
-Information We Collect Personal Information Name: Used for account identification and personalization
-Phone Number: Used for authentication and account recovery
+Welcome to Ethio Exit Exam Hub. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
-Grade/Academic Level: Used to provide relevant educational content
+By using Ethio Exit Exam Hub, you agree to the collection and use of information in accordance with this policy.
 
-Device Information Device ID: Unique identifier for your device
+About This App — Independence & Government Affiliation
 
-Device Brand, Model, and Manufacturer: For compatibility and troubleshooting
+Ethio Exit Exam Hub is an independent educational study application. It is NOT affiliated with, endorsed by, sponsored by, or in any way officially connected to the Ethiopian Ministry of Education, the Ethiopian Education Assessment and Examinations Service (EAES), or any Ethiopian university. We do not represent any government entity, and we do not register students for, deliver, or facilitate any official government examination or government service.
 
-Operating System: To ensure app compatibility
+The practice questions and study materials in this app are compiled for independent revision purposes only. For official information about the Ethiopian university exit exam — including registration, schedules, official curriculum, and results — please consult the official government sources:
 
-Profile Data Profile Pictures: Optional, only if you choose to upload
+• Ministry of Education (Ethiopia): https://moe.gov.et
+• Ethiopian Education Assessment and Examinations Service (EAES): https://eaes.gov.et
 
-Usage Data Study Plans: Your created study schedules
+Information We Collect
 
-Exam Progress: Your test results and performance tracking
+Personal Information
+• Name: Used for account identification and personalization.
+• Phone Number: Used for authentication and account recovery.
+• Academic Level / Field of Study: Used to provide relevant educational content.
 
-Downloaded Content: Records of materials you've downloaded for offline access
+Device Information
+• Device ID: Unique identifier for your device.
+• Device Brand, Model, and Manufacturer: For compatibility and troubleshooting.
+• Operating System: To ensure app compatibility.
 
-Payment Information Payment Receipts: If you purchase a subscription
+Profile Data
+• Profile Pictures: Optional, only if you choose to upload.
 
-Transaction Records: For billing and account verification purposes
+Usage Data
+• Study Plans: Your created study schedules.
+• Exam Progress: Your test results and performance tracking.
+• Downloaded Content: Records of materials you've downloaded for offline access.
 
-How We Use Your Information We use the collected information to:
-Provide Services: Deliver Ethio Exit Exam Hub educational content and features
+Payment Information
+• Payment Receipts: If you purchase a subscription.
+• Transaction Records: For billing and account verification purposes.
 
-Authentication: Verify your identity and secure your account
+How We Use Your Information
 
-Payment Processing: Handle subscription payments and verify transactions
+We use the collected information to:
+• Provide Services: Deliver Ethio Exit Exam Hub educational content and features.
+• Authentication: Verify your identity and secure your account.
+• Payment Processing: Handle subscription payments and verify transactions.
+• Notifications: Send study plan reminders and important updates.
+• Personalization: Customize your learning experience based on your field of study.
+• Offline Access: Store downloaded study materials locally on your device.
+• Improvements: Analyze usage patterns to improve our app and develop new features.
+• Security: Detect and prevent fraud and unauthorized access.
 
-Notifications: Send study plan reminders and important updates
+Information Sharing and Data Storage
 
-Personalization: Customize your learning experience based on your grade
+Your Privacy Is Our Priority
 
-Offline Access: Store downloaded study materials locally on your device
-
-Improvements: Analyze usage patterns to improve our app and develop new features
-
-Security: Detect and prevent fraud and unauthorized access
-
-Information Sharing and Data Storage Your Privacy is Our Priority We DO NOT:
-Sell your personal information to third parties
-
-Share your data with advertisers
-
-Use third-party analytics or tracking services without disclosure
+We DO NOT:
+• Sell your personal information to third parties.
+• Share your data with advertisers.
+• Use third-party analytics or tracking services without disclosure.
 
 We DO:
+• Use device information solely for account security and multi-device management.
+• Transmit data securely to our servers using HTTPS encryption.
+• Store study materials (PDFs, videos) locally on your device in app-specific directories.
+• Comply with legal requirements to disclose information when required by law.
 
-Use device information solely for account security and multi-device management
+Data Location
+• Your personal data is stored on our secure servers.
+• Downloaded study materials are stored locally on your device.
+• We use industry-standard security measures to protect your data.
 
-Transmit data securely to our servers using HTTPS encryption
+Data Security
 
-Store study materials (PDFs, videos) locally on your device in app-specific directories
+Security Measures We Implement
+• HTTPS Encryption: All data transmission is encrypted.
+• Password Security: Passwords are hashed using industry-standard algorithms.
+• Device Verification: Multi-device authentication to prevent unauthorized access.
+• Regular Updates: Continuous security monitoring and updates.
+• Access Controls: Limited employee access to personal data.
 
-Comply with legal requirements to disclose information when required by law
+Important Note
+No method of transmission over the internet is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee absolute security. We recommend:
+• Using a strong, unique password.
+• Keeping your device secure.
+• Logging out from shared devices.
 
-Data Location Your personal data is stored on our secure servers
+Your Rights and Data Control
 
-Downloaded study materials are stored locally on your device
+You have full control over your data:
 
-We use industry-standard security measures to protect your data
+Access
+• View your personal information at any time through your profile.
 
-Data Security Security Measures We Implement HTTPS Encryption: All data transmission is encrypted
-Password Security: Passwords are hashed using industry-standard algorithms
+Update
+• Edit your profile, phone number, and academic details.
+• Change or remove your profile picture.
 
-Device Verification: Multi-device authentication to prevent unauthorized access
+Delete
+• Permanently delete your account and all associated data.
+• To delete: Go to Settings >> Profile >> Delete Account.
+• Upon deletion, all your personal data will be removed from our servers within 30 days.
 
-Regular Updates: Continuous security monitoring and updates
+Download
+• Access all downloaded study materials offline.
+• Export your study plan data.
 
-Access Controls: Limited employee access to personal data
+Opt-Out
+• Disable notifications in app settings.
+• Revoke permissions in your device settings.
 
-Important Note No method of transmission over the internet is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee absolute security. We recommend:
+Local Data Storage
 
-Using a strong, unique password
+App-Specific Storage
+• Downloaded Materials: PDFs and videos are stored locally in app-specific directories.
+• Study Plans: Cached locally for offline access.
+• Authentication: Login tokens stored securely using encrypted local storage.
+• No Cookies: We don't use browser cookies or third-party tracking technologies.
+• Data Clearing: Uninstalling the app or clearing app data will remove all local content.
 
-Keeping your device secure
+Children's Privacy
 
-Logging out from shared devices
+Age Requirements
+• Ethio Exit Exam Hub is designed for university students preparing for the Ethiopian university exit exam.
+• Our services are intended for users aged 18 and above.
+• We do not knowingly collect information from children under 13.
+• If we discover we have inadvertently collected data from a child under 13, we will delete it immediately.
 
-Your Rights and Data Control You have full control over your data:
-Access View your personal information at any time through your profile
+If you believe we have inadvertently collected information from a child under 13, please contact us immediately at support@entrancetricks.com.
 
-Update Edit your profile, phone number, and grade level
+Notifications and Permissions
 
-Change or remove your profile picture
+App Permissions Explained
 
-Delete Permanently delete your account and all associated data
+Our app requests the following permissions:
 
-To delete: Go to Settings >> Profile >> Delete Account
+Notifications
+• Purpose: Send study plan reminders and important updates.
+• Control: Can be disabled in device settings.
 
-Upon deletion, all your personal data will be removed from our servers within 30 days
+Alarms & Reminders (SCHEDULE_EXACT_ALARM)
+• Purpose: Send precise scheduled notifications for your study plans.
+• Why Needed: Ensures you receive reminders at exactly the right time.
+• Android 14+: This permission must be explicitly granted.
 
-Download Access all downloaded study materials offline
+Camera / Photos
+• Purpose: Upload a profile picture (optional).
+• When Requested: Only when you choose to take or select a photo.
+• Control: Can be revoked in device settings.
 
-Export your study plan data
-
-Opt-Out Disable notifications in app settings
-
-Revoke permissions in your device settings
-
-Local Data Storage App-Specific Storage Downloaded Materials: PDFs and videos are stored locally in app-specific directories
-Study Plans: Cached locally for offline access
-
-Authentication: Login tokens stored securely using encrypted local storage
-
-No Cookies: We don't use browser cookies or third-party tracking technologies
-
-Data Clearing: Uninstalling the app or clearing app data will remove all local content
-
-Children's Privacy Age Requirements Ethio Exit Exam Hub is designed for students in Grades 9-12
-Our services are intended for students aged 13 and above
-
-We do not knowingly collect information from children under 13
-
-Parents/guardians should supervise usage for younger students
-
-If we discover we've collected data from a child under 13, we will delete it immediately
-
-If you believe we have inadvertently collected information from a child under 13, please contact us immediately.
-
-Notifications and Permissions App Permissions Explained Our app requests the following permissions:
-Notifications Purpose: Send study plan reminders and important updates
-
-Control: Can be disabled in device settings
-
-Alarms & Reminders (SCHEDULE_EXACT_ALARM) Purpose: Send precise scheduled notifications for your study plans
-
-Why Needed: Ensures you receive reminders at exactly the right time
-
-Android 14+: This permission must be explicitly granted
-
-Camera/Photos Purpose: Upload a profile picture (optional)
-
-When Requested: Only when you choose to take or select a photo
-
-Control: Can be revoked in device settings
-
-Storage Purpose: Download and store study materials for offline access
-
-Scope: Limited to app-specific directories (scoped storage)
-
-No External Access: We don't access your personal files or other apps' data
+Storage
+• Purpose: Download and store study materials for offline access.
+• Scope: Limited to app-specific directories (scoped storage).
+• No External Access: We don't access your personal files or other apps' data.
 
 All permissions are requested only when needed and can be revoked at any time through your device settings.
 
-Third-Party Services Services We Use Ethio Exit Exam Hub uses the following third-party services:
-Hosting Provider: For secure cloud storage of educational content
+Third-Party Services
 
-Payment Gateway: For processing subscription payments (if applicable)
+Services We Use
+Ethio Exit Exam Hub uses the following third-party services:
+• Hosting Provider: For secure cloud storage of educational content.
+• Payment Gateway: For processing subscription payments (if applicable).
 
 We ensure all third-party services comply with data protection regulations and maintain appropriate security standards.
 
-No Advertising We do not use any third-party advertising networks or analytics services that track your behavior.
+No Advertising
+We do not use any third-party advertising networks or analytics services that track your behavior.
 
-International Data Transfers Your data may be transferred to and processed in countries other than your country of residence. We ensure that appropriate safeguards are in place to protect your data in accordance with this privacy policy.
+International Data Transfers
 
-Data Retention Active Accounts: We retain your data as long as your account is active
+Your data may be transferred to and processed in countries other than your country of residence. We ensure that appropriate safeguards are in place to protect your data in accordance with this Privacy Policy.
 
-Account Deletion: Data is deleted within 30 days of account deletion request
+Data Retention
+• Active Accounts: We retain your data as long as your account is active.
+• Account Deletion: Data is deleted within 30 days of an account-deletion request.
+• Legal Requirements: Some data may be retained longer if required by law.
+• Backup Data: Backup copies are permanently deleted within 90 days.
 
-Legal Requirements: Some data may be retained longer if required by law
+Changes to This Privacy Policy
 
-Backup Data: Backup copies are permanently deleted within 90 days
+We may update our Privacy Policy from time to time to reflect changes in:
+• Our practices.
+• Legal requirements.
+• App features.
 
-Changes to This Privacy Policy We may update our Privacy Policy from time to time to reflect changes in:
-Our practices
-
-Legal requirements
-
-App features
-
-How We Notify You Updates will be posted in the app
-
-Privacy policy will be updated on our website
-
-Significant changes will be notified via in-app notification
-
-Last updated date will be changed at the top of this policy
+How We Notify You
+• Updates will be posted in the app.
+• The Privacy Policy will be updated on our website.
+• Significant changes will be notified via in-app notification.
+• The "Last Updated" date will be changed at the top of this policy.
 
 Continued use of Ethio Exit Exam Hub after changes constitutes acceptance of the updated policy.
 
-Contact Us Questions or Concerns? If you have any questions about this Privacy Policy or how we handle your data, please contact us:
-Through the App: Support section in Ethio Exit Exam Hub app
+Contact Us
 
-Website: https://entrancetricks.com
+Questions or Concerns? If you have any questions about this Privacy Policy or how we handle your data, please contact us:
+• Through the App: Support section in Ethio Exit Exam Hub.
+• Website: https://entrancetricks.com
+• Email: support@entrancetricks.com
+• Response Time: We typically respond within 48 hours.
 
-Email: support@entrancetricks.com
+Legal Compliance
 
-Response Time: We typically respond within 48 hours
+Ethio Exit Exam Hub complies with:
+• Google Play Store Data Safety requirements.
+• General Data Protection Regulation (GDPR) principles.
+• Children's Online Privacy Protection Act (COPPA).
+• Applicable local data protection laws.
 
-Legal Compliance Ethio Exit Exam Hub complies with:
-Google Play Store Data Safety Requirements
+Your Consent
 
-General Data Protection Regulation (GDPR) principles
-
-Children's Online Privacy Protection Act (COPPA)
-
-Applicable local data protection laws
-
-Your Consent By using Ethio Exit Exam Hub you consent to:
-This Privacy Policy
-
-Collection and use of information as described
-
-Storage of data as outlined above
+By using Ethio Exit Exam Hub you consent to:
+• This Privacy Policy.
+• Collection and use of information as described.
+• Storage of data as outlined above.
 
 You can withdraw consent by:
-
-Deleting your account
-
-Uninstalling the app
-
-Contacting us to request data deletion
+• Deleting your account.
+• Uninstalling the app.
+• Contacting us to request data deletion.

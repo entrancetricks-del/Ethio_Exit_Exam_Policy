@@ -15,7 +15,7 @@ Ethio Exit Exam Hub is an independent educational study application. It is NOT a
 The practice questions and study materials in this app are compiled for independent revision purposes only. For official information about the Ethiopian university exit exam — including registration, schedules, official curriculum, and results — please consult the official government sources:
 
 • Ministry of Education (Ethiopia): https://moe.gov.et
-• Ethiopian Education Assessment and Examinations Service (EAES): https://eaes.gov.et
+• Ethiopian Education Assessment and Examinations Service (EAES): https://www.eaes.et
 
 Information We Collect
 
